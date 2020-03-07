@@ -1,5 +1,4 @@
 # hello-world
-Consists of my first codes on GitHub
 
 This is a readme file about all my first codes which I am gonna write on GitHub
 
